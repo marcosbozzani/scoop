@@ -1,0 +1,10 @@
+{
+    "version":  "0.1.3",
+    "homepage":  "https://github.com/marcosbozzani/cdecl",
+    "description":  "Extracts C declarations using universal ctags",
+    "license":  "MIT",
+    "bin":  "cdecl.exe",
+    "url":  "https://github.com/marcosbozzani/cdecl/releases/download/v0.1.3/cdecl.exe",
+    "hash":  "2618179A2058DEC65B1AC7ECA0B8BBE213333BCB19753FCF2A491C8E1455C5A7",
+    "depends":  "universal-ctags"
+}
